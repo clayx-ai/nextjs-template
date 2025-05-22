@@ -1,0 +1,10 @@
+{
+  "setupTasks": ["npm install"],
+  "tasks": {
+    "dev-server": {
+      "name": "Dev Server",
+      "command": "npm run dev",
+      "runAtStart": true
+    }
+  }
+}
