@@ -8,18 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
-    "@heroui/react": "^2.7.6",
-    "@heroui/system": "2.4.13",
-    "@heroui/theme": "2.4.13",
-    "@react-aria/ssr": "3.9.7",
-    "@react-aria/visually-hidden": "3.8.21",
-    "clsx": "2.1.1",
-    "framer-motion": "12.12.1",
-    "intl-messageformat": "^10.5.0",
-    "next": "15.3.0",
+    "@heroui/react": "^2.7.8",
+    "@heroui/system": "^2.4.15",
+    "@heroui/theme": "^2.4.15",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.15.0",
+    "next": "^15.3.2",
     "next-themes": "^0.4.4",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@react-types/shared": "3.25.0",
